@@ -1,4 +1,24 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
+electronics:
+  id: 1
+  name: "Electronics"
+
+furniture:
+  id: 2
+  name: "Furniture"
+
+fashion:
+  id: 3
+  name: "Fashion"
+
+tech:
+  id: 4
+  name: "Tech"
+
+home_appliances:
+  id: 5
+  name: "Home Appliances"
+
+clothing_and_accessories:
   name: "Clothing and Accessories"
